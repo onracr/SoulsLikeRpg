@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "SoulsLikeRpg",
+			"path": "."
+		},
+		{
+			"name": "UE4",
+			"path": "B:\\GameEngines\\Epic Games\\UE_4.25"
+		}
+	],
+	"settings": {
+		"typescript.tsc.autoDetect": "off"
+	},
+	"extensions": {
+		"recommendations": [
+			"ms-vscode.cpptools",
+			"ms-dotnettools.csharp"
+		]
+	}
+}
