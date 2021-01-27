@@ -14,7 +14,9 @@ Saved
 *.xcworkspace
 *.umap
 *_BuiltData.uasset
+*.fbx
 
+Assets
 /Content/ParagonGreystone/**
 /Content/StarterContent/**
 /Content/TP_Assets/**
