@@ -17,6 +17,7 @@ Saved
 *.fbx
 
 Assets
+/Content/InfinityBladeAdversaries/**
 /Content/ParagonGreystone/**
 /Content/StarterContent/**
 /Content/TP_Assets/**
