@@ -17,6 +17,7 @@ Saved
 *.fbx
 
 Assets
+/Content/FXVarietyPack/**
 /Content/InfinityBladeAdversaries/**
 /Content/ParagonGreystone/**
 /Content/StarterContent/**
