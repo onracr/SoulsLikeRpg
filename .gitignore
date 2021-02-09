@@ -17,8 +17,10 @@ Saved
 *.fbx
 
 Assets
+/Content/_Main/Sounds/**
 /Content/FXVarietyPack/**
 /Content/GrassLandscape/**
+/Content/HorrorEngine/**
 /Content/InfinityBladeAdversaries/**
 /Content/Megascans/**
 /Content/MSPresets/**
